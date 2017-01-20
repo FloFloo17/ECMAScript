@@ -1,0 +1,22 @@
+{
+  "name": "js-exo",
+  "version": "1.0.0",
+  "description": "test de javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FloFloo17/ECMAScript.git"
+  },
+  "author": "FloFlo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FloFloo17/ECMAScript/issues"
+  },
+  "homepage": "https://github.com/FloFloo17/ECMAScript#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
